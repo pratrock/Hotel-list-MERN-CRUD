@@ -27,14 +27,14 @@ Redux Thunk for asynchronous operations
 # By clicking on edit, we can edit details
 ![image](https://github.com/pratrock/Hotel-list-MERN-CRUD/assets/30598262/c73dbf0f-09d3-47e7-a8a1-62a5e2765845)
 
-#This gives us access to a prefilled form
+# This gives us access to a prefilled form
 
 ![image](https://github.com/pratrock/Hotel-list-MERN-CRUD/assets/30598262/bdf7681f-1ac5-41b6-a4f9-9e71cf2b804f)
 
-#We can edit the details
+# We can edit the details
 ![image](https://github.com/pratrock/Hotel-list-MERN-CRUD/assets/30598262/deb21290-5497-4db4-9c0a-279a21968235)
 
-#We can see the update here
+# We can see the update here
 ![image](https://github.com/pratrock/Hotel-list-MERN-CRUD/assets/30598262/c6e56dd9-9b29-4a41-bc76-96673afcae67)
 
 
@@ -49,6 +49,8 @@ Redux Thunk for asynchronous operations
 
 
 # WE can also logout when we are done
+
+![Uploading image.png…]()
 
 ![image](https://github.com/pratrock/Hotel-list-MERN-CRUD/assets/30598262/71edb564-aa2c-4d50-9b49-35a053c98b9c)
 
