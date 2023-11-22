@@ -50,8 +50,6 @@ Redux Thunk for asynchronous operations
 
 # WE can also logout when we are done
 
-![Uploading image.png…]()
-
 ![image](https://github.com/pratrock/Hotel-list-MERN-CRUD/assets/30598262/71edb564-aa2c-4d50-9b49-35a053c98b9c)
 
 
